@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dev.F front-end course<br>👯 I’m looking to collaborate on anything <br>🤝 I’m looking for help with everything<br>🌱 I’m currently learning HTML JavaScript and GIT<br>💬 Ask me about anything<br>⚡ Fun fact: I play the saxophone
+🔭 I’m currently studying on Dev.F front-end course<br>👯 I’m looking to collaborate on anything <br>🤝 I’m looking for help with everything<br>🌱 I’m currently learning HTML JavaScript and GIT<br>💬 Ask me about anything<br>⚡ Fun fact: I play the saxophone
 
 
 ## 🌐 Socials:
