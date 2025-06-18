@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently studying on Dev.F front-end course<br>👯 I’m looking to collaborate on anything <br>🤝 I’m looking for help with everything<br>🌱 I’m currently learning HTML JavaScript and GIT<br>💬 Ask me about anything<br>⚡ Fun fact: I play the saxophone
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-reyes-789377305/) 
 
