@@ -1,11 +1,6 @@
-<h1 align="center">
-Jonathan Reyes <br>
-</h1>
 
-$$
-\color{gray}
-\text{Front end developer}
-$$
+# **Jonathan Reyes** | *front end developer*
+
 
 ---
 <!-- Theme responsive stats -->
