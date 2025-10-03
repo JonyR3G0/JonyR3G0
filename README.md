@@ -9,7 +9,7 @@ Jonathan Reyes <br>
 
 
 <!-- Theme responsive stats -->
-
+<div align='center'>
 <!-- Main stats -->
 <picture>
   <source
@@ -35,3 +35,4 @@ Jonathan Reyes <br>
   />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyR3G0&layout=donut" />
 </picture>
+</di>
