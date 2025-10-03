@@ -1,11 +1,9 @@
-<h1 align='center'>
-Jonathan Reyes
+<div align="center">
+<h1 >
+Jonathan Reyes <br>
+<i>Front end developer &lt;&#47;&gt; </i>
 </h1>
-
-$$
-\color{gray}
-\text{Front end developer </>}
-$$
+</div>
 
 
 ### Stats:
