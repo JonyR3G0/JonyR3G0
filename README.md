@@ -26,12 +26,12 @@ $$
 <!-- Top lang. -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyR3G0&layout=compact&title_color=000000&text_color=8a939b&bg_color=00000000&border_color=d2dbe3c&locale=en&ring_color=337b49&border_radius=20"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyR3G0&layout=donut&title_color=000000&text_color=8a939b&bg_color=00000000&border_color=d2dbe3c&locale=en&ring_color=337b49&border_radius=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyR3G0&layout=compact&title_color=FFFFFF&text_color=8a939b&bg_color=00000000&border_color=3c434c&locale=en&border_radius=20"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyR3G0&layout=donut&title_color=FFFFFF&text_color=8a939b&bg_color=00000000&border_color=3c434c&locale=en&border_radius=20"
     media="(prefers-color-scheme: dark)"
   />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyR3G0&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyR3G0&layout=donut" />
 </picture>
