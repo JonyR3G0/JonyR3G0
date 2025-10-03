@@ -1,16 +1,12 @@
-<div align='center' >
-
-<h1>
-Jonathan Reyes
-</h1>
+<h1 align='center'>
+Jonathan Reyes <br>
 
 ![FED](https://img.shields.io/badge/Front%20end%20developer%20(⌐■ᴗ■)-ff0d51?style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-</div>
+</h1>
 
----
 
 <!-- Theme responsive stats -->
 
