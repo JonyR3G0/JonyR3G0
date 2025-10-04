@@ -73,7 +73,17 @@ Still in progress...
 ***
 <div align='center'>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD)
+<picture>
+  <source
+    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD"
+    media="(prefers-color-scheme: dark)"
+  />
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD" />
+</picture>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonh.reyes.go@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-reyes-789377305)
