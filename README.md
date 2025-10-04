@@ -21,7 +21,6 @@ Jonathan Reyes <br>
 
 </div>
 
-<img src="https://i.pinimg.com/originals/3d/0f/d8/3d0fd842be0ccdaf97d960312c7b34e6.gif" width="20%" align="right" />
 
 <pre>
 Hola!
