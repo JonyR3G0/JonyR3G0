@@ -23,20 +23,7 @@ Jonathan Reyes <br>
 
 
 <pre>
-Hola!
-Info
-info
-Mas info
-asdfas
-asdfasdf
-asdf
-asdf
-asf
-asdfasdf
-iasdfa
-asdfasdf
-asdfasfd
-asdfs
+Still in progress...
 </pre>
 
 
@@ -77,11 +64,8 @@ asdfs
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD)
 
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![HTB](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
-![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonh.reyes.go@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-reyes-789377305)
 
 </div>
 
