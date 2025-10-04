@@ -71,3 +71,11 @@ asdfs
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyR3G0&layout=donut" />
 </picture>
 <div>
+
+<div align='center'>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Ready+to+contact+me%3F;Check+my+socials+below!++%E2%A4%B5%EF%B8%8E)
+
+</div>
+
+
