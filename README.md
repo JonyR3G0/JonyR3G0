@@ -21,7 +21,7 @@ Jonathan Reyes <br>
 
 </div>
 
-<img src="https://i.pinimg.com/originals/3d/0f/d8/3d0fd842be0ccdaf97d960312c7b34e6.gif" width="30%" align="right" />
+<img src="https://i.pinimg.com/originals/3d/0f/d8/3d0fd842be0ccdaf97d960312c7b34e6.gif" width="20%" align="right" />
 
 <pre>
 Hola!
@@ -41,10 +41,8 @@ asdfs
 </pre>
 
 
-***
-
 <!-- Theme responsive stats -->
-<div align='left' >
+<div align='center' >
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JonyR3G0&border_radius=20&background=00000000&border=3c434c&locale=en&ring=ff0d51&fire=ff0d51&currStreakNum=8a939b&sideNums=8a939b&currStreakLabel=8a939b&sideLabels=8a939b&dates=8a939b&excludeDaysLabel=8a939b)
 
