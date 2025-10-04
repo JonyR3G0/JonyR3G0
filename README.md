@@ -7,6 +7,8 @@ Jonathan Reyes <br>
 
 </h1>
 
+<div align='center'>
+
 ```
  ░▒▓██████▓▒░ ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
@@ -15,11 +17,16 @@ Jonathan Reyes <br>
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
  ░▒▓██████▓▒░ ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░       ░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░  
-                                                                                                          
-                                                                                                          
 ```
+</div>
+
 <!-- Theme responsive stats -->
 <!-- Main stats -->
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JonyR3G0&border_radius=20&background=00000000&border=3c434c&locale=en&ring=ff0d51&fire=ff0d51&currStreakNum=8a939b&sideNums=8a939b&currStreakLabel=8a939b&sideLabels=8a939b&dates=8a939b&excludeDaysLabel=8a939b)
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JonyR3G0&show_icons=true&show=prs_merged_percentage&title_color=ffffff&text_color=8a939b&bg_color=00000000&border_color=3c434c&icon_color=3f88e5&locale=en&ring_color=50c35c&border_radius=20"
