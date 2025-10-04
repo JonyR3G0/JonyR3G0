@@ -1,15 +1,16 @@
-<picture>
-  <source
-    srcset="https://readme-typing-svg.demolab.com?font=Parkinsans&size=70&duration=1000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=1000&height=80&lines=Jonathan+Reyes)](https://git.io/typing-svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://readme-typing-svg.demolab.com?font=Parkinsans&size=70&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=80&lines=Jonathan+Reyes"
-    media="(prefers-color-scheme: dark)"
-  />
-    <img src="https://readme-typing-svg.demolab.com?font=Parkinsans&size=70&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=80&lines=Jonathan+Reyes" />
-</picture>
+<div align='center'>
 
+```
+::::::::::: ::::::::  ::::    ::: :::   ::: :::::::::   ::::::::   ::::::::   :::::::  
+    :+:    :+:    :+: :+:+:   :+: :+:   :+: :+:    :+: :+:    :+: :+:    :+: :+:   :+: 
+    +:+    +:+    +:+ :+:+:+  +:+  +:+ +:+  +:+    +:+        +:+ +:+        +:+  :+:+ 
+    +#+    +#+    +:+ +#+ +:+ +#+   +#++:   +#++:++#:      +#++:  :#:        +#+ + +:+ 
+    +#+    +#+    +#+ +#+  +#+#+#    +#+    +#+    +#+        +#+ +#+   +#+# +#+#  +#+ 
+#+# #+#    #+#    #+# #+#   #+#+#    #+#    #+#    #+# #+#    #+# #+#    #+# #+#   #+# 
+ #####      ########  ###    ####    ###    ###    ###  ########   ########   #######  
+```
+
+</div>
 <picture>
   <source
     srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=<+Front+end+developer+/>"
@@ -33,19 +34,7 @@
 
 </div>
 
-<div align='center'>
 
-```
- ░▒▓██████▓▒░ ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒▒▓███▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒▒▓███▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
- ░▒▓██████▓▒░ ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░       ░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░  
-```
-
-</div>
 
 
 <pre>
