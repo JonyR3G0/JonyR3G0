@@ -11,26 +11,22 @@
 ```
 
 </div>
-<picture>
-  <source
-    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=<+Front+end+developer+/>"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=<+Front+end+developer+/>"
-    media="(prefers-color-scheme: dark)"
-  />
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=<+Front+end+developer+/>" />
-</picture>
+
+<h2 align="center">
+Front end developer
+</h2>
 
 <div align='center'>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg">
 
 </div>
 
@@ -86,19 +82,26 @@ Still in progress...
 <div>
 
 ***
+<div align="center">
+
+## Education and training
+
+Finished:
+
+[![Dev.F](https://img.shields.io/badge/Dev.F-9b42f5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzLjYgMy42IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj4KICA8IS0tIENhZGEgY2VsZGEgdGllbmUgdGFtYcOxbyAxLCBzZXBhcmFkYSAwLjIgLS0+CiAgPHJlY3QgeD0iMS4yIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjZmZmZmZmIi8+CiAgPHJlY3QgeD0iMi40IiB5PSIxLjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNmZmZmZmYiLz4KICA8cmVjdCB4PSIwIiB5PSIyLjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNmZmZmZmYiLz4KICA8cmVjdCB4PSIxLjIiIHk9IjIuNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI2ZmZmZmZiIvPgogIDxyZWN0IHg9IjIuNCIgeT0iMi40IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjZmZmZmZmIi8+Cjwvc3ZnPgo=)](mailto:jonh.reyes.go@gmail.com)
+
+Ongoing:
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![HTB Academy](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+![Leet Code](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+
+</div>
+
+
 <div align='center'>
 
-<picture>
-  <source
-    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD"
-    media="(prefers-color-scheme: dark)"
-  />
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD" />
-</picture>
+## Connect with me ⤵︎
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonh.reyes.go@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-reyes-789377305)
