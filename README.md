@@ -24,9 +24,12 @@
 
 <div align='center'>
 
-![FED](https://img.shields.io/badge/Front%20end%20developer%20(⌐■ᴗ■)-ff0d51?style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 </div>
 
@@ -98,14 +101,14 @@ Still in progress...
 
 <picture>
   <source
-    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD"
+    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD"
+    srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD"
     media="(prefers-color-scheme: dark)"
   />
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=300&color=8a939b&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD" />
 </picture>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonh.reyes.go@gmail.com)
