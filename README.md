@@ -72,6 +72,7 @@ asdfs
 </picture>
 <div>
 
+***
 <div align='center'>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=3000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%96%BD+Socials+%E2%96%BD)
