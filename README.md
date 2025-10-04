@@ -30,7 +30,18 @@ Still in progress...
 <!-- Theme responsive stats -->
 <div align='center' >
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JonyR3G0&border_radius=20&background=00000000&border=3c434c&locale=en&ring=ff0d51&fire=ff0d51&currStreakNum=8a939b&sideNums=8a939b&currStreakLabel=8a939b&sideLabels=8a939b&dates=8a939b&excludeDaysLabel=8a939b)
+<!-- GitHub Streak -->
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=JonyR3G0&border_radius=20&background=00000000&border=3c434c&locale=en&ring=ff0d51&fire=ff0d51&currStreakNum=8a939b&sideNums=8a939b&currStreakLabel=8a939b&sideLabels=8a939b&dates=8a939b&excludeDaysLabel=8a939b"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=JonyR3G0&border_radius=20&background=00000000&border=ff0d51&locale=en&ring=ff0d51&fire=ff0d51&currStreakNum=8a939b&sideNums=8a939b&currStreakLabel=000000&sideLabels=000000&dates=8a939b&excludeDaysLabel=8a939b"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=JonyR3G0&border_radius=20" />
+</picture>
 
 <!-- Main stats -->
 <picture>
@@ -39,7 +50,7 @@ Still in progress...
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JonyR3G0&show_icons=true&show=prs_merged_percentage&title_color=000000&text_color=8a939b&bg_color=00000000&border_color=d2dbe3&icon_color=3f88e5&locale=en&ring_color=337b49&border_radius=20"
+    srcset="https://github-readme-stats.vercel.app/api?username=JonyR3G0&show_icons=true&show=prs_merged_percentage&title_color=000000&text_color=8a939b&bg_color=00000000&border_color=`d2dbe3&icon_color=3f88e5&locale=en&ring_color=337b49&border_radius=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=JonyR3G0&show_icons=true" />
